@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>👨‍💻 BTech CSE (2nd Year) @ Lovely Professional University | Cloud Computing Minor<br><br>⚙️ Interested in DevOps, Development, and scalable cloud systems<br><br>🔧 Practicing in C++, DSA, and problem-solving<br><br>🌐 Learning Web Development & backend fundamentals<br><br>🚀 Preparing for tech-based placements <br><br>🧠 Believe in consistency, clean code, and continuous improvement<br><br>🎬 🎮 Passionate about movies, storytelling, and gaming
+👨‍💻 BTech CSE (2nd Year) @ Lovely Professional University | Cloud Computing Minor<br><br>⚙️ Interested in DevOps, Development, and scalable cloud systems<br><br>🔧 Practicing in C++, DSA, and problem-solving<br><br>🌐 Learning Web Development & backend fundamentals<br><br>🚀 Preparing for tech-based placements <br><br>🧠 Believe in consistency, clean code, and continuous improvement<br><br>🎬 🎮 Passionate about movies, storytelling, and gaming
 
 
 ## 🌐 Socials:
